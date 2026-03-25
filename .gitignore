@@ -1,0 +1,24 @@
+# Python virtual environment — never push this
+backend/venv/
+
+# Node modules — never push this
+frontend/voiceos-ui/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Screenshots
+screenshots/
+
+# ChromaDB memory
+memory/
+
+# Build files
+frontend/voiceos-ui/build/
+dist/
